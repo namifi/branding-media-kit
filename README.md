@@ -34,7 +34,7 @@ application.
 
 | Section | What's inside |
 |---|---|
-| [Logo System](#logo-system) | Wordmark, symbol, and monochrome variants |
+| [Logo System](#logo-system) | Wordmark, symbol, monochrome variants, and token icons |
 | [Clear Space and Minimum Size](#clear-space-and-minimum-size) | Spacing and reproduction limits |
 | [Incorrect Usage](#incorrect-usage) | What to avoid |
 | [Partnership Applications](#partnership-applications) | Co-branding rules |
@@ -120,6 +120,24 @@ The monochrome files are not pure black and white. They are drawn in the brand n
 | White | <img src="_/swatch-light.svg" alt="" width="34" valign="middle"> `#DFDBDB` Nami Light | Dark or photographic backgrounds |
 
 Always use the official files without altering their proportions, composition, or colors.
+
+### Token Icons
+
+Token icons represent **`NAMI`** tokens in wallets, exchanges, listings, and portfolio trackers.
+Each token has its own set of files in [`brand-kit/NamiTokens/`](brand-kit/NamiTokens), named
+after the token.
+
+<table>
+<tr>
+<td align="center" width="33%"><img src="brand-kit/NamiTokens/ogNami_Token.svg" alt="ogNAMI token icon" width="96"></td>
+</tr>
+<tr>
+<td align="center"><b>ogNAMI</b><br><sub><a href="brand-kit/NamiTokens/ogNami_Token.svg">SVG</a> · <a href="brand-kit/NamiTokens/ogNami_Token_32.png">PNG 32</a> · <a href="brand-kit/NamiTokens/ogNami_Token_64.png">PNG 64</a></sub></td>
+</tr>
+</table>
+
+Use the token icon only to refer to the token itself. For the brand, company, or protocol, use
+the logo or symbol above.
 
 ## Clear Space and Minimum Size
 
@@ -299,6 +317,12 @@ All files below are the official assets, unmodified, as shipped in
 | Symbol | Gradient | [SVG](brand-kit/NamiMark/Nami_Mark_Gradient.svg) | [PNG](brand-kit/NamiMark/Nami_Mark_Gradient.png) | 600 × 480 |
 | Symbol | Black | [SVG](brand-kit/NamiMark/Nami_Mark_Black.svg) | [PNG](brand-kit/NamiMark/Nami_Mark_Black.png) | 600 × 480 |
 | Symbol | White | [SVG](brand-kit/NamiMark/Nami_Mark_White.svg) | [PNG](brand-kit/NamiMark/Nami_Mark_White.png) | 600 × 480 |
+
+Token icons:
+
+| Token | Vector | Raster | PNG size |
+|---|---|---|---|
+| ogNAMI | [SVG](brand-kit/NamiTokens/ogNami_Token.svg) | [PNG](brand-kit/NamiTokens/ogNami_Token_32.png) · [PNG](brand-kit/NamiTokens/ogNami_Token_64.png) | 32 × 32 · 64 × 64 |
 
 Prefer the SVG files wherever the medium allows. They stay sharp at any size and carry the
 exact gradient.

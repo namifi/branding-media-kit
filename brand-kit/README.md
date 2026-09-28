@@ -8,6 +8,7 @@ in the [Media Kit](../README.md).
 |---|---|---|
 | [`NamiLogoFull/`](NamiLogoFull) | Horizontal and vertical lockups (gradient, black, white) | `Nami_LogoFull_*`, `Nami_Logo_Vertical_*` |
 | [`NamiMark/`](NamiMark) | The symbol on its own (gradient, black, white) | `Nami_Mark_*` |
+| [`NamiTokens/`](NamiTokens) | Token icons, one set per token | `<Token>_Token.svg`, `<Token>_Token_<size>.png` (e.g. `ogNami_Token_32.png`) |
 
 Each asset ships as SVG (preferred) and PNG. Everything in this folder is official.
 
