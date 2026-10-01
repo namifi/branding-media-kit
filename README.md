@@ -130,9 +130,11 @@ after the token.
 <table>
 <tr>
 <td align="center" width="33%"><img src="brand-kit/NamiTokens/ogNami_Token.svg" alt="ogNAMI token icon" width="96"></td>
+<td align="center" width="33%"><img src="brand-kit/NamiTokens/sogNami_Token.svg" alt="sogNAMI token icon" width="96"></td>
 </tr>
 <tr>
 <td align="center"><b>ogNAMI</b><br><sub><a href="brand-kit/NamiTokens/ogNami_Token.svg">SVG</a> · <a href="brand-kit/NamiTokens/ogNami_Token_32.png">PNG 32</a> · <a href="brand-kit/NamiTokens/ogNami_Token_64.png">PNG 64</a></sub></td>
+<td align="center"><b>sogNAMI</b><br><sub><a href="brand-kit/NamiTokens/sogNami_Token.svg">SVG</a> · <a href="brand-kit/NamiTokens/sogNami_Token_32.png">PNG 32</a> · <a href="brand-kit/NamiTokens/sogNami_Token_64.png">PNG 64</a></sub></td>
 </tr>
 </table>
 
@@ -323,6 +325,7 @@ Token icons:
 | Token | Vector | Raster | PNG size |
 |---|---|---|---|
 | ogNAMI | [SVG](brand-kit/NamiTokens/ogNami_Token.svg) | [PNG](brand-kit/NamiTokens/ogNami_Token_32.png) · [PNG](brand-kit/NamiTokens/ogNami_Token_64.png) | 32 × 32 · 64 × 64 |
+| sogNAMI | [SVG](brand-kit/NamiTokens/sogNami_Token.svg) | [PNG](brand-kit/NamiTokens/sogNami_Token_32.png) · [PNG](brand-kit/NamiTokens/sogNami_Token_64.png) | 32 × 32 · 64 × 64 |
 
 Prefer the SVG files wherever the medium allows. They stay sharp at any size and carry the
 exact gradient.
